@@ -1,11 +1,11 @@
 ﻿---
 layout: post
 title:  "개인과제 - 자기소개서"
-date:   2016-05-26
-categories: Assignment
+date:   2016-05-26 22:06:07 +0900
+categories: jekyll update
 ---
 
-#**개인과제 - 자기소개서**  
+# **개인과제 - 자기소개서**  
 
 *1. 이름*  
 	최민호  
@@ -19,8 +19,6 @@ categories: Assignment
 *4. 취미*  
 	독서  
   	* 소설  
-     		* 판타지  
-     		* 추리  
 
 *5. 특기*  
 	신명나게 놀기  
