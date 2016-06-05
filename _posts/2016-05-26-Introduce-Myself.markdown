@@ -31,3 +31,14 @@
 	>**적은 내 안에 있다. - 칭키즈칸**  
 
 <p><img id="se_object_1465106532588" src="http://blogfiles.naver.net/20160605_66/minomino2003_1465106444600wLySP_PNG/KakaoTalk_20160605_145733194.png" class="__se_object" s_type="attachment" s_subtype="photo" style="width: 550px; height: 383px; border-color: rgb(0, 0, 0); rwidth:550px; rheight:383px;" width="550" height="383" imgqe="true" jsonvalue="%7B%7D" rwidth="550px" rheight="383px"></p>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-comments" data-href="http://mia777.github.io/2016/05/26/Introduce-Myself.html" data-width="500" data-numposts="5"></div>
