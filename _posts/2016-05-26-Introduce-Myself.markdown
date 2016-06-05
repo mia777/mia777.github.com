@@ -29,9 +29,9 @@
 	
 *9. 좌우명*  
 	>**적은 내 안에 있다. - 칭키즈칸**  
-
-<p><img src="Penguins.jpg" ></p>
-
+  
+<img src="Penguins.jpg" >  
+  
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
