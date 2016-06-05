@@ -30,7 +30,7 @@
 *9. 좌우명*  
 	>**적은 내 안에 있다. - 칭키즈칸**  
 
-<p><img src="KakaoTalk_20160605_145733194.png" ></p>
+<p><img src="Penguins.jpg" ></p>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
