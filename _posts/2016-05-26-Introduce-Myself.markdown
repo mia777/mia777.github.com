@@ -1,4 +1,4 @@
-﻿#**개인과제 - 자기소개서**  
+#**개인과제 - 자기소개서**  
 
 *1. 이름*  
 	최민호  
@@ -31,8 +31,8 @@
 	>**적은 내 안에 있다. - 칭키즈칸**  
   
  블록다이어그램입니다:
-![블록다이어그램](https://drive.google.com/file/d/0B7QQ-76e_zo2Y3hBRjU2VkI3QXc/view?usp=sharing)
-  
+![블록다이어그램](http://postfiles3.naver.net/20160605_66/minomino2003_1465106444600wLySP_PNG/KakaoTalk_20160605_145733194.png?type=w3)
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
