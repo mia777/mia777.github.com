@@ -30,7 +30,7 @@
 *9. 좌우명*  
 	>**적은 내 안에 있다. - 칭키즈칸**  
   
-<p><img id="se_object_1465204435238" src="http://blogfiles.naver.net/20160605_66/minomino2003_1465106444600wLySP_PNG/KakaoTalk_20160605_145733194.png" class="__se_object" s_type="attachment" s_subtype="photo" style="width: 550px; height: 383px; border-color: rgb(0, 0, 0); rwidth:550px; rheight:383px;" width="550" height="383" imgqe="true" jsonvalue="%7B%7D" rwidth="550px" rheight="383px"></p>
+<p><img id="se_object_1465204435238" src="KakaoTalk_20160605_145733194.png" class="__se_object" s_type="attachment" s_subtype="photo" style="width: 550px; height: 383px; border-color: rgb(0, 0, 0); rwidth:550px; rheight:383px;" width="550" height="383" imgqe="true" jsonvalue="%7B%7D" rwidth="550px" rheight="383px"></p>
   
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
