@@ -31,7 +31,7 @@
 	>**적은 내 안에 있다. - 칭키즈칸**  
   
  블록다이어그램입니다:
-![블록다이어그램](http://www.google.co.kr/images/srpr/logo11w.png)
+![블록다이어그램](https://drive.google.com/file/d/0B7QQ-76e_zo2Y3hBRjU2VkI3QXc/view?usp=sharing)
   
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
